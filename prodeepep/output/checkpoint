@@ -1,0 +1,2 @@
+model_checkpoint_path: "/HDD/tunkoal/PycharmProjects/proDeepEP/prodeepep/output/deepep_cnn.ckpt"
+all_model_checkpoint_paths: "/HDD/tunkoal/PycharmProjects/proDeepEP/prodeepep/output/deepep_cnn.ckpt"
